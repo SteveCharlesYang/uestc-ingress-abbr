@@ -10,7 +10,7 @@ Some strange abbreviations from a mysterious group.
   {
     "a": "sx"  // 缩写
     "f": "缩写"  // 全称
-  },
+  }, // 每个大括号后面都要跟逗号，最后一个大括号后面不要跟逗号
   ...
 }
 ```
