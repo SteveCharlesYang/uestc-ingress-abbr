@@ -61,18 +61,34 @@
   },
   {
     "a": "xjbl",
-    "f": "胡乱地在ingress游戏中连link"
+    "f": "瞎几把连（Link）"
   },
   {
     "a": "mh",
-    "f": "Multi-hack（不是mo'ha）"
+    "f": "Multi-hack"
   },
   {
     "a": "hs",
-    "f": "Heat Sink（不是ha'si）"
+    "f": "Heat Sink"
   },
   {
     "a": "sb",
     "f": "SoftBank Ultra Link"
+  },
+  {
+    "a": "sh",
+    "f": "沙河"
+  },
+  {
+    "a": "qsh",
+    "f": "清水河"
+  },
+  {
+    "a": "yh",
+    "f": "永辉（超市）"
+  },
+  {
+    "a": "lh",
+    "f": "龙湖（时代天街）"
   }
 ]

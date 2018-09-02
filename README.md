@@ -1,7 +1,7 @@
 # uestc-ingress-abbr
 Some strange abbreviations from a mysterious group.
 
----
+
 
 #### 编辑指南
 
